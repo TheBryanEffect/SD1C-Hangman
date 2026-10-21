@@ -21,7 +21,8 @@
 ---
 
 ## Beurtenlog
-- beurt1: <Naam> gokt "a"
-- (Git-master vult hier reactie in: goed/fout + updates)
-- beurt2: ...
+- beurt1: <MaxBurkart1> gokt "a"
+- (Git-master vult hier reactie in: goed A eerste letter)
+- beurt2: <Noo911>
+- (Git-master vult hier reactie in:)
 
