@@ -10,9 +10,8 @@
 ---
 
 ## Woordraster
-<!-- Pas het aantal kolommen aan aan de woordlengte -->
 | . | . | . | . | . | . | . | . | . | . | . | . |
-| - | - | - | - | - | - | - | - | - | - | - | - |## Kant-en-klare `README.md` template
+| - | - | - | - | - | - | - | - | - | - | - | - |
 
 > Kopieer dit in jullie README en vul aan.
 
@@ -29,7 +28,7 @@
 ---
 
 ## Woordraster
-<!-- Pas het aantal kolommen aan aan de woordlengte -->
+
 | . | . | . | . | . | . | . | . | . | . | . | . |
 | - | - | - | - | - | - | - | - | - | - | - | - |
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
