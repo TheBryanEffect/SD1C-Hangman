@@ -10,24 +10,6 @@
 ---
 
 ## Woordraster
-| . | . | . | . | . | . | . | . | . | . | . | . |
-| - | - | - | - | - | - | - | - | - | - | - | - |
-
-> Kopieer dit in jullie README en vul aan.
-
-```md
-# Galgje – Git Collaboration
-
-**Team:** <Teamnaam>  
-**Spelvolgorde & contact:**
-1.  MaxBurkart1
-2.  Noo911 
-3.  simkaart63 
-4.  TheBryanEffect
-
----
-
-## Woordraster
 
 | . | . | . | . | . | . | . | . | . | . | . | . |
 | - | - | - | - | - | - | - | - | - | - | - | - |
@@ -42,3 +24,4 @@
 - beurt1: <Naam> gokt "?"
 - (Git-master vult hier reactie in: goed/fout + updates)
 - beurt2: ...
+
