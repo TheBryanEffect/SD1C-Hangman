@@ -1,8 +1,3 @@
-## Kant-en-klare `README.md` template
-
-> Kopieer dit in jullie README en vul aan.
-
-```md
 # Galgje – Git Collaboration
 
 **Team:** <Teamnaam>  
@@ -48,17 +43,3 @@
 - beurt1: <Naam> gokt "?"
 - (Git-master vult hier reactie in: goed/fout + updates)
 - beurt2: ...
-```
-
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-
-## Status
-![status](1.png)
-
----
-
-## Beurtenlog
-- beurt1: <Naam> gokt "?"
-- (Git-master vult hier reactie in: goed/fout + updates)
-- beurt2: ...
-```
