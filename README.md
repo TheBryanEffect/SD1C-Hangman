@@ -2,10 +2,10 @@
 
 **Team:** <Teamnaam>  
 **Spelvolgorde & contact:**
-1. <Naam 1> – MaxBurkart1
-2. <Naam 2> – Noo911 
-3. <Naam 3> – simkaart63 
-4. <Naam 4> – TheBryanEffect
+1.  MaxBurkart1
+2.  Noo911 
+3.  simkaart63 
+4.  TheBryanEffect
 
 ---
 
@@ -20,10 +20,10 @@
 
 **Team:** <Teamnaam>  
 **Spelvolgorde & contact:**
-1. <Naam 1> – <email1@example.com>
-2. <Naam 2> – <email2@example.com>
-3. <Naam 3> – <email3@example.com>
-4. <Naam 4> – <email4@example.com>
+1.  MaxBurkart1
+2.  Noo911 
+3.  simkaart63 
+4.  TheBryanEffect
 
 ---
 
