@@ -25,5 +25,5 @@ Host = TheBryaneffect
 - (Git-master vult hier reactie in: goed A eerste letter!)
 - beurt2: Noo911 gokt "T"
 - (Git-master vult hier reactie in: Goed T vierde letter!)
-- beurt2: simkaart63 gokt "-"
+- beurt2: simkaart63 gokt "E"
 - (Git-master vult hier reactie in: )
