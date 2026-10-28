@@ -11,7 +11,7 @@
 
 ## Woordraster
 
-| A | . | . | . | . | . | . | . | . | . |
+| A | . | . | T | . | . | . | . | . | . |
 | - | - | - | - | - | - | - | - | - | - |
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 
@@ -22,7 +22,7 @@
 
 ## Beurtenlog
 - beurt1: MaxBurkart1 gokt "a"
-- (Git-master vult hier reactie in: goed A eerste letter)
+- (Git-master vult hier reactie in: goed A eerste letter!)
 - beurt2: Noo911 gokt "T"
-- (Git-master vult hier reactie in:)
+- (Git-master vult hier reactie in: Goed T vierde letter!)
 
