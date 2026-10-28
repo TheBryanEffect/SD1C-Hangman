@@ -1,11 +1,11 @@
 # Galgje – Git Collaboration
 
-**Team:** <Teamnaam>  
+Host = TheBryaneffect  
 **Spelvolgorde & contact:**
 1.  MaxBurkart1
 2.  Noo911 
 3.  simkaart63 
-4.  TheBryanEffect
+
 
 ---
 
