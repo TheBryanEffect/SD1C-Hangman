@@ -31,3 +31,4 @@ Host = TheBryaneffect
 - (Git-master vult hier reactie in: Goede vijfde en achtste letter!)
 - beurt3: MaxBurkart1 gokt "n"
 - (Git-master vult hier reactie in: Fout! "N" zit er niet in!)
+- beurt4: Noo911 gokt "H"
