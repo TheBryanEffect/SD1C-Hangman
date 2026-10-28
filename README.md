@@ -11,7 +11,7 @@ Host = TheBryaneffect
 
 ## Woordraster
 
-| A | . | . | T | E | . | . | E | . | . |
+| A | . | H | T | E | . | . | E | . | . |
 | - | - | - | - | - | - | - | - | - | - |
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 
@@ -28,7 +28,8 @@ Host = TheBryaneffect
 - beurt2: Noo911 gokt "T"
 - (Git-master vult hier reactie in: Goed T vierde letter!)
 - beurt2: simkaart63 gokt "E"
-- (Git-master vult hier reactie in: Goede vijfde en achtste letter!)
+- (Git-master vult hier reactie in: Goede E vijfde en achtste letter!)
 - beurt3: MaxBurkart1 gokt "n"
-- (Git-master vult hier reactie in: Fout! "N" zit er niet in!)
+- (Git-master vult hier reactie in: Fout! N zit er niet in!)
 - beurt4: Noo911 gokt "H"
+- (Git-master vult hier reactie in: Goed H derde letter!)
