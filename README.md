@@ -27,3 +27,4 @@ Host = TheBryaneffect
 - (Git-master vult hier reactie in: Goed T vierde letter!)
 - beurt2: simkaart63 gokt "E"
 - (Git-master vult hier reactie in: Goede vijfde en achtste letter!)
+- beurt3: MaxBurkart1 gokt "n"
