@@ -23,6 +23,6 @@
 ## Beurtenlog
 - beurt1: MaxBurkart1 gokt "a"
 - (Git-master vult hier reactie in: goed A eerste letter)
-- beurt2: Noo911 gokt "-"
+- beurt2: Noo911 gokt "T"
 - (Git-master vult hier reactie in:)
 
