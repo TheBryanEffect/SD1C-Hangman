@@ -34,4 +34,5 @@ Host = TheBryaneffect
   - *(Git-master vult hier reactie in: Goed H derde letter!)*
 - beurt5: simkaart63 gokt "S"
   - *(Git-master vult hier reactie in: Fout! S zit er niet in!)*
+- beurt6: MaxBurkart1 gokt "-"
 
