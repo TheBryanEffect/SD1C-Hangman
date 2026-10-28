@@ -26,13 +26,13 @@ Host = TheBryaneffect
   - *(Git-master vult hier reactie in: goed A eerste letter!)*
 - beurt2: Noo911 gokt "T"
   - *(Git-master vult hier reactie in: Goed T vierde letter!)*
-- beurt2: simkaart63 gokt "E"
+- beurt3: simkaart63 gokt "E"
   - *(Git-master vult hier reactie in: Goede E vijfde en achtste letter!)*
-- beurt3: MaxBurkart1 gokt "n"
+- beurt4: MaxBurkart1 gokt "n"
   - *(Git-master vult hier reactie in: Fout! N zit er niet in!)*
-- beurt4: Noo911 gokt "H"
+- beurt5: Noo911 gokt "H"
   - *(Git-master vult hier reactie in: Goed H derde letter!)*
-- beurt5: simkaart63 gokt "S"
+- beurt6: simkaart63 gokt "S"
   - *(Git-master vult hier reactie in: Fout! S zit er niet in!)*
-- beurt6: MaxBurkart1 gokt "-"
+- beurt7: MaxBurkart1 gokt "C"
 
