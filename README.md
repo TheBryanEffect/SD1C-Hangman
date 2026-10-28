@@ -16,8 +16,10 @@ Host = TheBryaneffect
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 
 ## Status
-![status](img/1.png)
+![status](img/2.png)
 
+## Woorden die er niet inzitten
+|N|
 ---
 
 ## Beurtenlog
@@ -28,3 +30,4 @@ Host = TheBryaneffect
 - beurt2: simkaart63 gokt "E"
 - (Git-master vult hier reactie in: Goede vijfde en achtste letter!)
 - beurt3: MaxBurkart1 gokt "n"
+- (Git-master vult hier reactie in: Fout! "N" zit er niet in!)
