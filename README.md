@@ -11,7 +11,7 @@ Host = TheBryaneffect
 
 ## Woordraster
 
-| A | . | H | T | E | . | . | E | . | . |
+| A | C | H | T | E | . | . | E | . | . |
 | - | - | - | - | - | - | - | - | - | - |
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 
@@ -35,4 +35,8 @@ Host = TheBryaneffect
 - beurt6: simkaart63 gokt "S"
   - *(Git-master vult hier reactie in: Fout! S zit er niet in!)*
 - beurt7: MaxBurkart1 gokt "C"
+  - *(Git-master vult hier reactie in: Goed C tweede letter!)*
+- beurt5: Noo911 gokt "-"
+  
+  
 
